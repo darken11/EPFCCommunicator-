@@ -1,8 +1,6 @@
 package eu.epfc.epfccommunicator
 
-import android.R.attr
-import android.app.Activity
-import android.content.ActivityNotFoundException
+
 import android.content.Context
 import android.content.Intent
 import android.graphics.Bitmap
@@ -13,7 +11,6 @@ import android.provider.MediaStore
 import android.view.View
 import android.widget.EditText
 import android.widget.ImageView
-import android.R.attr.data
 
 
 
