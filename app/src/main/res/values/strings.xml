@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EPFCCommunicator</string>
+    <string name="enter_a_message">Enter a message</string>
+
+    <string name="send">Send!</string>
+    <string name="text">This is the ReceiveMessage Activity</string>
+    <string name="share">Share!</string>
+    <string name="search">Enter Address</string>
+    <string name="searchBtn">Search</string>
+    <string name="take_picture">Take Picture</string>
+
+
+</resources>
