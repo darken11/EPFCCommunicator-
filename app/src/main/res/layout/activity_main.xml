@@ -75,6 +75,7 @@
             android:layout_marginTop="100dp"
             android:background="@color/gray"
             android:layout_gravity="center_horizontal"
+            android:onClick="onImageViewClicked"
 
             />
         <Button

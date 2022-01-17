@@ -9,21 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.EPFCCommunicator">
-        <activity
-            android:name=".ReceiveMessageActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
+        <activity android:name=".FullImageActivity" />
+        <activity android:name=".ReceiveMessageActivity" />
+        <activity android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
-                <data android:scheme="geo" />
-                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
 
         </activity>
